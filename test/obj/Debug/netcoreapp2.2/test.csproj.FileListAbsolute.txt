@@ -1,0 +1,8 @@
+C:\Users\ben burak\source\repos\YandexApi\test\bin\Debug\netcoreapp2.2\test.deps.json
+C:\Users\ben burak\source\repos\YandexApi\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+C:\Users\ben burak\source\repos\YandexApi\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+C:\Users\ben burak\source\repos\YandexApi\test\bin\Debug\netcoreapp2.2\test.dll
+C:\Users\ben burak\source\repos\YandexApi\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+C:\Users\ben burak\source\repos\YandexApi\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+C:\Users\ben burak\source\repos\YandexApi\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+C:\Users\ben burak\source\repos\YandexApi\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache

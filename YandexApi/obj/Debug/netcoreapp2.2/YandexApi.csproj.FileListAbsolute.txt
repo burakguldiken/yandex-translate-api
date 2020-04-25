@@ -1,0 +1,15 @@
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.csproj.CoreCompileInputs.cache
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.RazorAssemblyInfo.cache
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\bin\Debug\netcoreapp2.2\YandexApi.deps.json
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\bin\Debug\netcoreapp2.2\YandexApi.runtimeconfig.json
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\bin\Debug\netcoreapp2.2\YandexApi.runtimeconfig.dev.json
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\bin\Debug\netcoreapp2.2\YandexApi.dll
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\bin\Debug\netcoreapp2.2\YandexApi.pdb
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.RazorAssemblyInfo.cs
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.AssemblyInfoInputs.cache
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.AssemblyInfo.cs
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.RazorTargetAssemblyInfo.cache
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.dll
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.pdb
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\bin\Debug\netcoreapp2.2\YandexApi.xml
+C:\Users\ben burak\source\repos\YandexApi\YandexApi\obj\Debug\netcoreapp2.2\YandexApi.csprojAssemblyReference.cache

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>YandexApi</name>
+    </assembly>
+    <members>
+        <member name="M:YandexApi.Controllers.Translate.Translate_Text(YandexApi.Entity.TextTranslate)">
+            <summary>
+            Converts the entered text to the language you want
+            </summary>
+            <param name="translate">
+            text = string,required,
+            sourcLang = string,required,
+            destLang = string,required
+            </param>
+            <returns></returns>
+        </member>
+        <member name="M:YandexApi.Controllers.Translate.Detect_Text(YandexApi.Entity.DetectLanguage)">
+            <summary>
+            Brings the language of the text
+            </summary>
+            <param name="detectLanguage">
+            text = string,required
+            </param>
+            <returns></returns>
+        </member>
+        <member name="M:YandexApi.Controllers.Translate.Supported_Language">
+            <summary>
+            Get supported language list
+            </summary>
+            <param name="detectLanguage">
+            text = string,required
+            </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
